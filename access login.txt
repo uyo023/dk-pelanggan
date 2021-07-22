@@ -1,0 +1,11 @@
+user@gmail.com 
+user1234
+
+admin@gmail.com 
+admin123
+
+cs@gmail.com 
+cs_service
+
+manager@gmail.com
+manager123
